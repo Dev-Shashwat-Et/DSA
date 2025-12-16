@@ -1,0 +1,21 @@
+3. Longest Substring Without Repeating Characters
+
+239. Sliding Window Maximum
+
+76. Minimum Window Substring
+
+424. Longest Repeating Character Replacement
+
+567. Permutation in String
+
+209. Minimum Size Subarray Sum
+
+904. Fruit Into Baskets
+
+438. Find All Anagrams in a String
+
+1004. Max Consecutive Ones III
+
+992. Subarrays with K Different Integers
+
+Master these patterns, and you'll be able to tackle most sliding window problems
