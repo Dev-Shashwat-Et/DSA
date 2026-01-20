@@ -1,0 +1,2 @@
+- This DSA repo consists of all the most important LeetCode questions that may be asked in the interviews.
+- All questions are listed based on the pattern type rather than data types
